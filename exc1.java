@@ -33,6 +33,7 @@
 	            System.out.println("Area of Rectangle = " + rectangle.areaRec() + " sq. units");
 	            System.out.println("Area of Square = " + square.areaSq() + " sq. units");
 	            System.out.println("Area of Circle = " + circle.areaCircle() + " sq. units");
+			System.out.println("trying git");
 	        }
 	    }
 	    
